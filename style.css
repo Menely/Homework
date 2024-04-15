@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  background-color:  #7D7F7D;
+}
+
+.Heading {
+  font-weight: bold; 
+}
+.text11 {
+  font-weight: bold; 
+}
+
+.card {
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background-color: #A2ADD0;
+}
